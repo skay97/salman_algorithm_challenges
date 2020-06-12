@@ -6,5 +6,8 @@
   "repository": "https://github.com/skay97/salman_algorithm_challenges.git",
   "author": "Salman Karim <salmankarimzindani@hotmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
