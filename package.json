@@ -1,0 +1,10 @@
+{
+  "name": "salman_algorithm_challenges",
+  "version": "1.0.0",
+  "description": "daily challenges",
+  "main": "index.js",
+  "repository": "https://github.com/skay97/salman_algorithm_challenges.git",
+  "author": "Salman Karim <salmankarimzindani@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
